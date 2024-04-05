@@ -97,7 +97,7 @@ Here, instead of following the official Python developer's guide, we have create
 our own master copy of the CPython code base, which we will distribute through
 GitHub Classroom.
 
-Accept the GitHub Classroom Assignment here: [GitHub Classroom Invitation][13]
+Accept the GitHub Classroom Assignment (you can find this link on the course website version of this file)
 
 Once you accept the GitHub Classroom assignment, you should have your own
 repository containing the CPython source code.
@@ -218,7 +218,6 @@ Python 3.12.2
 [10]: https://marketplace.visualstudio.com/items?itemName=ms-python.python
 [11]: https://code.visualstudio.com/docs/python/environments#_working-with-python-interpreters
 [12]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
-[13]: https://classroom.github.com/a/SMR0Rn90
 
 [^1]: Python is an interpreted language, and many different versions of the Python interpreter may exist simultaneously in one system. Your operating system, particularly MacOS or Linux, likely comes with both a Python 2 and Python 3 interpreter installed.
 [^2]: The tkinter package (“Tk interface”) is the standard Python interface to the Tcl/Tk GUI toolkit. Both Tk and tkinter are available on most Unix platforms, including macOS, as well as on Windows systems.
